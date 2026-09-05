@@ -1,3 +1,4 @@
+# Build and deploy frontend using the current commit SHA
 name: Frontend Continuous Deployment
 
 on:
